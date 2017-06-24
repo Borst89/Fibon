@@ -1,0 +1,9 @@
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.deps.json
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.json
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.runtimeconfig.dev.json
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.dll
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\bin\Debug\netcoreapp1.1\Fibon.Api.pdb
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.csprojResolveAssemblyReference.cache
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.AssemblyInfo.cs
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.dll
+C:\Users\kubgl\Source\Repos\Fibon\Fibon.Api\obj\Debug\netcoreapp1.1\Fibon.Api.pdb
